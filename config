@@ -1,0 +1,11 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/JohaChoez/Figuras.git
+[remote "Asterisco"]
+	url = https://github.com/JohaChoez/Figuras.git
+[remote "Figura"]
+	url = https://github.com/JohaChoez/Figuras.git
